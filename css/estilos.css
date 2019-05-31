@@ -1,13 +1,10 @@
 body
 {
-    color: #0ff;
-<<<<<<< HEAD
-    text-align: left;
-    font-family: "Courier";
-=======
+
+    color: #333;
+>>>>>>> cabecera
     text-align: center;
     font-family: "Times";
->>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
